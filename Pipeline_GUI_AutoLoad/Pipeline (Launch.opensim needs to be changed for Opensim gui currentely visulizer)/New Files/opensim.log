@@ -593,3 +593,344 @@ Examples:
 [2026-10-30 00:04:12.675] [warning] Couldn't find file 'talus_lv.vtp'.
 [2026-10-30 00:04:12.675] [warning] Couldn't find file 'l_foot.vtp'.
 [2026-10-30 00:04:12.675] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-11-05 10:34:43.981] [info] Preparing to run ScaleTool.
+[2026-11-05 10:34:43.982] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-05 10:34:43.982] [info] Step 1: Loading generic model
+[2026-11-05 10:34:44.001] [info] Updating Model file from 30000 to latest format...
+[2026-11-05 10:34:44.212] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\Pipeline_GUI_AutoLoad\Pipeline (Launch.opensim needs to be changed for Opensim gui currentely visulizer)\New Files\P2_APP1_SO.osim
+[2026-11-05 10:34:44.215] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-11-05 10:34:44.215] [warning] Couldn't find file 'r_patella.vtp'.
+[2026-11-05 10:34:44.215] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-11-05 10:34:44.215] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-11-05 10:34:44.215] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-11-05 10:34:44.215] [warning] Couldn't find file 'foot.vtp'.
+[2026-11-05 10:34:44.215] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-11-05 10:34:44.216] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-11-05 10:34:44.216] [warning] Couldn't find file 'l_patella.vtp'.
+[2026-11-05 10:34:44.216] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-11-05 10:34:44.216] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-11-05 10:34:44.216] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-11-05 10:34:44.216] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-11-05 10:34:44.216] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-11-05 10:34:44.227] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-05 10:34:44.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 10:34:44.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 10:34:44.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-05 10:34:44.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 10:34:44.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-05 10:34:44.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-05 10:34:44.231] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 10:34:44.231] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 10:34:44.231] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-05 10:34:44.231] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 10:34:44.231] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-05 10:34:44.231] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 10:34:44.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 10:34:44.235] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-05 10:34:44.287] [info] Step 2: Scaling generic model
+[2026-11-05 10:34:44.672] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-05 10:34:44.674] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-05 10:50:38.709] [info] Updating Model file from 30000 to latest format...
+[2026-11-05 10:50:38.717] [warning] Model name 'LFB Model' contains whitespace.
+[2026-11-05 10:50:38.717] [warning] It was renamed to 'LFBModel'.
+[2026-11-05 10:50:38.811] [info] Loaded model LFBModel from file C:\Users\adity\OneDrive\Documents\CapstoneProject\Pipeline_GUI_AutoLoad\Pipeline (Launch.opensim needs to be changed for Opensim gui currentely visulizer)\New Files\LFB_model.osim
+[2026-11-05 10:50:38.813] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2026-11-05 10:50:38.814] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-11-05 10:50:38.814] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-11-05 10:50:38.815] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-11-05 10:50:38.815] [warning] Couldn't find file 'r_patella.vtp'.
+[2026-11-05 10:50:38.815] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-11-05 10:50:38.815] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-11-05 10:50:38.816] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-11-05 10:50:38.816] [warning] Couldn't find file 'foot.vtp'.
+[2026-11-05 10:50:38.816] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-11-05 10:50:38.816] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-11-05 10:50:38.816] [warning] Couldn't find file 'l_patella.vtp'.
+[2026-11-05 10:50:38.816] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-11-05 10:50:38.816] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-11-05 10:50:38.817] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-11-05 10:50:38.817] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-11-05 10:50:38.817] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-11-05 10:50:38.817] [warning] Couldn't find file 'lumbar5.vtp'.
+[2026-11-05 10:50:38.817] [warning] Couldn't find file 'lumbar4.vtp'.
+[2026-11-05 10:50:38.817] [warning] Couldn't find file 'lumbar3.vtp'.
+[2026-11-05 10:50:38.817] [warning] Couldn't find file 'lumbar2.vtp'.
+[2026-11-05 10:50:38.817] [warning] Couldn't find file 'lumbar1.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'cerv1sm.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'cerv2sm.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'cerv3sm.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'cerv4sm.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'cerv5sm.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'cerv6sm.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'cerv7.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'thoracic12_s.vtp'.
+[2026-11-05 10:50:38.818] [warning] Couldn't find file 'thoracic11_s.vtp'.
+[2026-11-05 10:50:38.819] [warning] Couldn't find file 'thoracic10_s.vtp'.
+[2026-11-05 10:50:38.819] [warning] Couldn't find file 'thoracic9_s.vtp'.
+[2026-11-05 10:50:38.819] [warning] Couldn't find file 'thoracic8_s.vtp'.
+[2026-11-05 10:50:38.819] [warning] Couldn't find file 'thoracic7_s.vtp'.
+[2026-11-05 10:50:38.819] [warning] Couldn't find file 'thoracic6_s.vtp'.
+[2026-11-05 10:50:38.819] [warning] Couldn't find file 'thoracic5_s.vtp'.
+[2026-11-05 10:50:38.819] [warning] Couldn't find file 'thoracic4_s.vtp'.
+[2026-11-05 10:50:38.819] [warning] Couldn't find file 'thoracic3_s.vtp'.
+[2026-11-05 10:50:38.820] [warning] Couldn't find file 'thoracic2_s.vtp'.
+[2026-11-05 10:50:38.820] [warning] Couldn't find file 'thoracic1_s.vtp'.
+[2026-11-05 10:50:38.820] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2026-11-05 10:50:38.820] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-11-05 10:50:38.820] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-11-05 10:50:38.821] [warning] Couldn't find file 'humerus_rv.vtp'.
+[2026-11-05 10:50:38.821] [warning] Couldn't find file 'ulna_rv.vtp'.
+[2026-11-05 10:50:38.821] [warning] Couldn't find file 'radius_rv.vtp'.
+[2026-11-05 10:50:38.821] [warning] Couldn't find file 'pisiform_rvs.vtp'.
+[2026-11-05 10:50:38.821] [warning] Couldn't find file 'lunate_rvs.vtp'.
+[2026-11-05 10:50:38.821] [warning] Couldn't find file 'scaphoid_rvs.vtp'.
+[2026-11-05 10:50:38.821] [warning] Couldn't find file 'triquetrum_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'hamate_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'capitate_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'trapezoid_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'trapezium_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'metacarpal2_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'index_proximal_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'index_medial_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'index_distal_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'metacarpal3_rvs.vtp'.
+[2026-11-05 10:50:38.822] [warning] Couldn't find file 'middle_proximal_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'middle_medial_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'middle_distal_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'metacarpal4_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'ring_proximal_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'ring_medial_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'ring_distal_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'metacarpal5_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'little_proximal_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'little_medial_rvs.vtp'.
+[2026-11-05 10:50:38.823] [warning] Couldn't find file 'little_distal_rvs.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'metacarpal1_rvs.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'thumb_proximal_rvs.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'thumb_distal_rvs.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'humerus_lv.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'ulna_lv.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'radius_lv.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'pisiform_lvs.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'lunate_lvs.vtp'.
+[2026-11-05 10:50:38.824] [warning] Couldn't find file 'scaphoid_lvs.vtp'.
+[2026-11-05 10:50:38.825] [warning] Couldn't find file 'triquetrum_lvs.vtp'.
+[2026-11-05 10:50:38.825] [warning] Couldn't find file 'hamate_lvs.vtp'.
+[2026-11-05 10:50:38.825] [warning] Couldn't find file 'capitate_lvs.vtp'.
+[2026-11-05 10:50:38.825] [warning] Couldn't find file 'trapezoid_lvs.vtp'.
+[2026-11-05 10:50:38.825] [warning] Couldn't find file 'trapezium_lvs.vtp'.
+[2026-11-05 10:50:38.825] [warning] Couldn't find file 'metacarpal2_lvs.vtp'.
+[2026-11-05 10:50:38.825] [warning] Couldn't find file 'index_proximal_lvs.vtp'.
+[2026-11-05 10:50:38.825] [warning] Couldn't find file 'index_medial_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'index_distal_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'metacarpal3_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'middle_proximal_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'middle_medial_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'middle_distal_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'metacarpal4_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'ring_proximal_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'ring_medial_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'ring_distal_lvs.vtp'.
+[2026-11-05 10:50:38.826] [warning] Couldn't find file 'metacarpal5_lvs.vtp'.
+[2026-11-05 10:50:38.827] [warning] Couldn't find file 'little_proximal_lvs.vtp'.
+[2026-11-05 10:50:38.827] [warning] Couldn't find file 'little_medial_lvs.vtp'.
+[2026-11-05 10:50:38.827] [warning] Couldn't find file 'little_distal_lvs.vtp'.
+[2026-11-05 10:50:38.828] [warning] Couldn't find file 'metacarpal1_lvs.vtp'.
+[2026-11-05 10:50:38.828] [warning] Couldn't find file 'thumb_proximal_lvs.vtp'.
+[2026-11-05 10:50:38.828] [warning] Couldn't find file 'thumb_distal_lvs.vtp'.
+[2026-11-05 10:56:11.089] [info] Updating Model file from 30000 to latest format...
+[2026-11-05 10:56:11.090] [warning] Model name 'LFB Model' contains whitespace.
+[2026-11-05 10:56:11.090] [warning] It was renamed to 'LFBModel'.
+[2026-11-05 10:56:11.142] [info] Loaded model LFBModel from file C:/Users/adity/OneDrive/Documents/CapstoneProject/Pipeline_GUI_AutoLoad/Pipeline (Launch.opensim needs to be changed for Opensim gui currentely visulizer)/New Files/LFB_model.osim
+[2026-11-05 10:56:11.144] [warning] Couldn't find file 'r_pelvis.vtp'.
+[2026-11-05 10:56:11.144] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-11-05 10:56:11.144] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-11-05 10:56:11.144] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-11-05 10:56:11.144] [warning] Couldn't find file 'r_patella.vtp'.
+[2026-11-05 10:56:11.144] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-11-05 10:56:11.144] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-11-05 10:56:11.145] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-11-05 10:56:11.145] [warning] Couldn't find file 'foot.vtp'.
+[2026-11-05 10:56:11.145] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-11-05 10:56:11.145] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-11-05 10:56:11.145] [warning] Couldn't find file 'l_patella.vtp'.
+[2026-11-05 10:56:11.145] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-11-05 10:56:11.145] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-11-05 10:56:11.145] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-11-05 10:56:11.146] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-11-05 10:56:11.146] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-11-05 10:56:11.146] [warning] Couldn't find file 'lumbar5.vtp'.
+[2026-11-05 10:56:11.146] [warning] Couldn't find file 'lumbar4.vtp'.
+[2026-11-05 10:56:11.146] [warning] Couldn't find file 'lumbar3.vtp'.
+[2026-11-05 10:56:11.146] [warning] Couldn't find file 'lumbar2.vtp'.
+[2026-11-05 10:56:11.146] [warning] Couldn't find file 'lumbar1.vtp'.
+[2026-11-05 10:56:11.146] [warning] Couldn't find file 'cerv1sm.vtp'.
+[2026-11-05 10:56:11.147] [warning] Couldn't find file 'cerv2sm.vtp'.
+[2026-11-05 10:56:11.147] [warning] Couldn't find file 'cerv3sm.vtp'.
+[2026-11-05 10:56:11.147] [warning] Couldn't find file 'cerv4sm.vtp'.
+[2026-11-05 10:56:11.147] [warning] Couldn't find file 'cerv5sm.vtp'.
+[2026-11-05 10:56:11.147] [warning] Couldn't find file 'cerv6sm.vtp'.
+[2026-11-05 10:56:11.147] [warning] Couldn't find file 'cerv7.vtp'.
+[2026-11-05 10:56:11.147] [warning] Couldn't find file 'thoracic12_s.vtp'.
+[2026-11-05 10:56:11.147] [warning] Couldn't find file 'thoracic11_s.vtp'.
+[2026-11-05 10:56:11.148] [warning] Couldn't find file 'thoracic10_s.vtp'.
+[2026-11-05 10:56:11.148] [warning] Couldn't find file 'thoracic9_s.vtp'.
+[2026-11-05 10:56:11.148] [warning] Couldn't find file 'thoracic8_s.vtp'.
+[2026-11-05 10:56:11.148] [warning] Couldn't find file 'thoracic7_s.vtp'.
+[2026-11-05 10:56:11.148] [warning] Couldn't find file 'thoracic6_s.vtp'.
+[2026-11-05 10:56:11.148] [warning] Couldn't find file 'thoracic5_s.vtp'.
+[2026-11-05 10:56:11.148] [warning] Couldn't find file 'thoracic4_s.vtp'.
+[2026-11-05 10:56:11.148] [warning] Couldn't find file 'thoracic3_s.vtp'.
+[2026-11-05 10:56:11.149] [warning] Couldn't find file 'thoracic2_s.vtp'.
+[2026-11-05 10:56:11.149] [warning] Couldn't find file 'thoracic1_s.vtp'.
+[2026-11-05 10:56:11.149] [warning] Couldn't find file 'hat_ribs_scap.vtp'.
+[2026-11-05 10:56:11.149] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-11-05 10:56:11.149] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-11-05 10:56:11.149] [warning] Couldn't find file 'humerus_rv.vtp'.
+[2026-11-05 10:56:11.149] [warning] Couldn't find file 'ulna_rv.vtp'.
+[2026-11-05 10:56:11.149] [warning] Couldn't find file 'radius_rv.vtp'.
+[2026-11-05 10:56:11.150] [warning] Couldn't find file 'pisiform_rvs.vtp'.
+[2026-11-05 10:56:11.150] [warning] Couldn't find file 'lunate_rvs.vtp'.
+[2026-11-05 10:56:11.150] [warning] Couldn't find file 'scaphoid_rvs.vtp'.
+[2026-11-05 10:56:11.150] [warning] Couldn't find file 'triquetrum_rvs.vtp'.
+[2026-11-05 10:56:11.150] [warning] Couldn't find file 'hamate_rvs.vtp'.
+[2026-11-05 10:56:11.150] [warning] Couldn't find file 'capitate_rvs.vtp'.
+[2026-11-05 10:56:11.150] [warning] Couldn't find file 'trapezoid_rvs.vtp'.
+[2026-11-05 10:56:11.150] [warning] Couldn't find file 'trapezium_rvs.vtp'.
+[2026-11-05 10:56:11.151] [warning] Couldn't find file 'metacarpal2_rvs.vtp'.
+[2026-11-05 10:56:11.151] [warning] Couldn't find file 'index_proximal_rvs.vtp'.
+[2026-11-05 10:56:11.151] [warning] Couldn't find file 'index_medial_rvs.vtp'.
+[2026-11-05 10:56:11.151] [warning] Couldn't find file 'index_distal_rvs.vtp'.
+[2026-11-05 10:56:11.151] [warning] Couldn't find file 'metacarpal3_rvs.vtp'.
+[2026-11-05 10:56:11.151] [warning] Couldn't find file 'middle_proximal_rvs.vtp'.
+[2026-11-05 10:56:11.151] [warning] Couldn't find file 'middle_medial_rvs.vtp'.
+[2026-11-05 10:56:11.151] [warning] Couldn't find file 'middle_distal_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'metacarpal4_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'ring_proximal_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'ring_medial_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'ring_distal_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'metacarpal5_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'little_proximal_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'little_medial_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'little_distal_rvs.vtp'.
+[2026-11-05 10:56:11.152] [warning] Couldn't find file 'metacarpal1_rvs.vtp'.
+[2026-11-05 10:56:11.153] [warning] Couldn't find file 'thumb_proximal_rvs.vtp'.
+[2026-11-05 10:56:11.153] [warning] Couldn't find file 'thumb_distal_rvs.vtp'.
+[2026-11-05 10:56:11.153] [warning] Couldn't find file 'humerus_lv.vtp'.
+[2026-11-05 10:56:11.153] [warning] Couldn't find file 'ulna_lv.vtp'.
+[2026-11-05 10:56:11.153] [warning] Couldn't find file 'radius_lv.vtp'.
+[2026-11-05 10:56:11.153] [warning] Couldn't find file 'pisiform_lvs.vtp'.
+[2026-11-05 10:56:11.153] [warning] Couldn't find file 'lunate_lvs.vtp'.
+[2026-11-05 10:56:11.153] [warning] Couldn't find file 'scaphoid_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'triquetrum_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'hamate_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'capitate_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'trapezoid_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'trapezium_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'metacarpal2_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'index_proximal_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'index_medial_lvs.vtp'.
+[2026-11-05 10:56:11.154] [warning] Couldn't find file 'index_distal_lvs.vtp'.
+[2026-11-05 10:56:11.155] [warning] Couldn't find file 'metacarpal3_lvs.vtp'.
+[2026-11-05 10:56:11.155] [warning] Couldn't find file 'middle_proximal_lvs.vtp'.
+[2026-11-05 10:56:11.155] [warning] Couldn't find file 'middle_medial_lvs.vtp'.
+[2026-11-05 10:56:11.155] [warning] Couldn't find file 'middle_distal_lvs.vtp'.
+[2026-11-05 10:56:11.155] [warning] Couldn't find file 'metacarpal4_lvs.vtp'.
+[2026-11-05 10:56:11.155] [warning] Couldn't find file 'ring_proximal_lvs.vtp'.
+[2026-11-05 10:56:11.155] [warning] Couldn't find file 'ring_medial_lvs.vtp'.
+[2026-11-05 10:56:11.155] [warning] Couldn't find file 'ring_distal_lvs.vtp'.
+[2026-11-05 10:56:11.156] [warning] Couldn't find file 'metacarpal5_lvs.vtp'.
+[2026-11-05 10:56:11.156] [warning] Couldn't find file 'little_proximal_lvs.vtp'.
+[2026-11-05 10:56:11.156] [warning] Couldn't find file 'little_medial_lvs.vtp'.
+[2026-11-05 10:56:11.156] [warning] Couldn't find file 'little_distal_lvs.vtp'.
+[2026-11-05 10:56:11.156] [warning] Couldn't find file 'metacarpal1_lvs.vtp'.
+[2026-11-05 10:56:11.156] [warning] Couldn't find file 'thumb_proximal_lvs.vtp'.
+[2026-11-05 10:56:11.156] [warning] Couldn't find file 'thumb_distal_lvs.vtp'.
+[2026-11-05 10:56:37.106] [info] Loaded model P2_PointCloud_scaled from file C:\Users\adity\OneDrive\Documents\CapstoneProject\Pipeline_GUI_AutoLoad\Pipeline (Launch.opensim needs to be changed for Opensim gui currentely visulizer)\New Files\P2_PointCloud_scaled.osim
+[2026-11-05 10:56:37.115] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-11-05 10:56:37.117] [warning] Couldn't find file 'r_patella.vtp'.
+[2026-11-05 10:56:37.120] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-11-05 10:56:37.123] [warning] Couldn't find file 'fibula_r.vtp'.
+[2026-11-05 10:56:37.125] [warning] Couldn't find file 'talus_rv.vtp'.
+[2026-11-05 10:56:37.128] [warning] Couldn't find file 'foot.vtp'.
+[2026-11-05 10:56:37.131] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-11-05 10:56:37.133] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-11-05 10:56:37.135] [warning] Couldn't find file 'l_patella.vtp'.
+[2026-11-05 10:56:37.136] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-11-05 10:56:37.137] [warning] Couldn't find file 'fibula_l.vtp'.
+[2026-11-05 10:56:37.138] [warning] Couldn't find file 'talus_lv.vtp'.
+[2026-11-05 10:56:37.139] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-11-05 10:56:37.141] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-11-05 11:01:10.572] [info] Loaded model P2_PointCloud_scaled from file C:\Users\adity\OneDrive\Documents\CapstoneProject\Pipeline_GUI_AutoLoad\Pipeline (Launch.opensim needs to be changed for Opensim gui currentely visulizer)\New Files\P2_PointCloud_scaled.osim
+[2026-11-05 11:01:35.259] [info] Loaded model P2_PointCloud_scaled from file C:\Users\adity\OneDrive\Documents\CapstoneProject\Pipeline_GUI_AutoLoad\Pipeline (Launch.opensim needs to be changed for Opensim gui currentely visulizer)\New Files\P2_PointCloud_scaled.osim
+[2026-11-05 11:20:00.017] [info] Updating Model file from 30000 to latest format...
+[2026-11-05 11:20:00.350] [info] Loaded model P2_Scaled from file C:\Users\adity\OneDrive\Documents\CapstoneProject\Pipeline_GUI_AutoLoad\Pipeline (Launch.opensim needs to be changed for Opensim gui currentely visulizer)\New Files\P2_APP1_SO.osim
+[2026-11-05 11:20:00.385] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-05 11:20:00.390] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 11:20:00.390] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 11:20:00.390] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-05 11:20:00.390] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 11:20:00.390] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-05 11:20:00.390] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-05 11:20:00.392] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 11:20:00.392] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 11:20:00.392] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-05 11:20:00.392] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-05 11:20:00.392] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-05 11:20:00.392] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 11:20:00.393] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-05 11:20:00.394] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 11:20:00.394] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-05 11:20:00.394] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-05 11:20:00.396] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
