@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OpenSimDocument Version="40000">
+	<ScaleTool name="P2_PointCloud_scaled">
+		<mass>113.549009</mass>
+		<height>-1</height>
+		<age>-1</age>
+		<notes>Unassigned</notes>
+		<GenericModelMaker>
+			<model_file>P2_APP1_SO.osim</model_file>
+			<marker_set_file>Unassigned</marker_set_file>
+		</GenericModelMaker>
+		<ModelScaler>
+			<apply>true</apply>
+			<scaling_order> manualScale</scaling_order>
+			<MeasurementSet>
+				<objects />
+				<groups />
+			</MeasurementSet>
+			<ScaleSet>
+				<objects>
+					<Scale>
+						<scales> 1 1 1</scales>
+						<segment>pelvis</segment>
+						<apply>true</apply>
+					</Scale>
+				</objects>
+				<groups />
+			</ScaleSet>
+			<marker_file>Unassigned</marker_file>
+			<time_range> -1 -1</time_range>
+			<preserve_mass_distribution>true</preserve_mass_distribution>
+			<output_model_file>P2_PointCloud_scaled.osim</output_model_file>
+			<output_scale_file>P2_PointCloud_scaleFactors.xml</output_scale_file>
+		</ModelScaler>
+		<MarkerPlacer>
+			<apply>false</apply>
+			<IKTaskSet>
+				<objects>
+					<IKMarkerTask name="R_LAT_FEM">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_CALC">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_LAT_MAL">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_MED_MAL">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_1ST">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_5TH">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_LAT_FEM">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_LAT_MAL">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_MED_MAL">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_1ST">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_5TH">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_CALC">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_GT">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_TH_PP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_TH_DP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_TH_DA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_TH_PA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_GT">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_TH_PA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_TH_DA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_TH_PP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_TH_DP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_SH_PA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_SH_PP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_SH_DP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_SH_DA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_SH_DP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_SH_PP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_SH_PA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_SH_DA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_PSIS">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_PSIS">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="C7">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_ACRO">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_ACRO">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_LAT_HUM">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_RAD">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_ULNA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_FARM_PA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_FARM_PP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_FARM_DP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_FARM_DA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_ARM_PA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_ARM_PP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_ARM_DP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_ARM_DA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_LAT_HUM">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_ULNA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_RAD">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_ARM_PP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_ARM_PA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_ARM_DA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_ARM_DP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_FARM_PP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_FARM_PA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_FARM_DA">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_FARM_DP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="PV_UR">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="PV_UL">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="PV_LL">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="PV_LR">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_HAND">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_HAND">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="LB_UR">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="LB_UL">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="LB_LR">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="LB_LL">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="R_SCAP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+					<IKMarkerTask name="L_SCAP">
+						<apply>true</apply>
+						<weight>1</weight>
+					</IKMarkerTask>
+				</objects>
+				<groups />
+			</IKTaskSet>
+			<marker_file />
+			<coordinate_file>Unassigned</coordinate_file>
+			<time_range> -1 -1</time_range>
+			<output_motion_file>Unassigned</output_motion_file>
+			<output_model_file>Unassigned</output_model_file>
+			<output_marker_file>Unassigned</output_marker_file>
+			<max_marker_movement>-1</max_marker_movement>
+		</MarkerPlacer>
+	</ScaleTool>
+</OpenSimDocument>
