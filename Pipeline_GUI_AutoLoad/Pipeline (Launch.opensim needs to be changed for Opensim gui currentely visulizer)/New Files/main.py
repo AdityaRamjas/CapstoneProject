@@ -214,6 +214,7 @@ def calculate_segment(
     try:
         hull = ConvexHull(segment_points)
         segment_volume_mm3 = float(hull.volume)
+        
 
     except QhullError as error:
         raise RuntimeError(
