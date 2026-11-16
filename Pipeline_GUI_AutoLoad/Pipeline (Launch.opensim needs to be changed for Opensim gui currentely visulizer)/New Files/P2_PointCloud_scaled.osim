@@ -94,11 +94,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>12.41403150533861</mass>
+					<mass>8.2542818458121481</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.029475000000000001 -0.071383199999999994 -0.020405800000000002</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00022472078924376439 0.00018470275179506725 0.00018470275179506725 0 0 0</inertia>
+					<inertia>0.00014942033377583145 0.00012281172078207849 0.00012281172078207849 0 0 0</inertia>
 				</Body>
 				<Body name="sacrum">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -132,11 +132,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00016650377101938381 0.00016650377101938381 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.0001107109365554228 0.0001107109365554228 0 0 0</inertia>
 				</Body>
 				<Body name="femur_r">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -170,11 +170,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>13.84025610324427</mass>
+					<mass>9.2026006737030492</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.032861399999999999 -0.177144 -0.022750200000000002</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.21469585532886198 0.056279643753879435 0.22640123692684416 0 0 0</inertia>
+					<inertia>0.14275459992590045 0.037421206924329528 0.15053768947106369 0 0 0</inertia>
 				</Body>
 				<Body name="patella_r">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -208,11 +208,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.12826349539850523</mass>
+					<mass>0.085284384939170788</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0015711099999999999 0.027509499999999999 -0.00021083500000000001</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>4.6017785027330739e-06 2.1020667949820385e-05 2.1020667949820385e-05 0 0 0</inertia>
+					<inertia>3.0597938097082464e-06 1.3976967737711162e-05 1.3976967737711162e-05 0 0 0</inertia>
 				</Body>
 				<Body name="tibia_r">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -261,11 +261,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>5.5166694801619256</mass>
+					<mass>3.6681189925983246</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.0130984 -0.20733499999999999 -0.0090681300000000006</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.091785263639503664 0.0092878047639950671 0.093060037447707494 0 0 0</inertia>
+					<inertia>0.061029443581388093 0.0061756052590911277 0.061877060433177831 0 0 0</inertia>
 				</Body>
 				<Body name="talus_r">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -299,11 +299,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.14879755846694342</mass>
+					<mass>0.098937801553562396</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.000353295 0 -0.00024458900000000003</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.0021462824301638267 0.0021462824301638267 0.0021462824301638267 0 0 0</inertia>
+					<inertia>0.0014270964345199336 0.0014270964345199336 0.0014270964345199336 0 0 0</inertia>
 				</Body>
 				<Body name="calcn_r">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -337,11 +337,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.859969480836789</mass>
+					<mass>1.2367225194195275</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.116143 0.036167699999999997 -0.0030573599999999999</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.0030047897678699841 0.0083704747144319018 0.0087997283832849799 0 0 0</inertia>
+					<inertia>0.0019979312619550819 0.00556565829935682 0.0058510757130743937 0 0 0</inertia>
 				</Body>
 				<Body name="toes_r">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -375,11 +375,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.32229551163939929</mass>
+					<mass>0.21429927816501607</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.040948199999999997 0.0072335300000000002 -0.0216276</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00021462824301638267 0.000429255077442922 0.0021462824301638267 0 0 0</inertia>
+					<inertia>0.00014270964345199335 0.00028541835031078034 0.0014270964345199336 0 0 0</inertia>
 				</Body>
 				<Body name="femur_l">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -413,11 +413,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>13.84025610324427</mass>
+					<mass>9.2026006737030492</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.032861399999999999 -0.177144 -0.022750200000000002</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.21469585532886198 0.056279643753879435 0.22640123692684416 0 0 0</inertia>
+					<inertia>0.14275459992590045 0.037421206924329528 0.15053768947106369 0 0 0</inertia>
 				</Body>
 				<Body name="patella_l">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -451,11 +451,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.12826349539850523</mass>
+					<mass>0.085284384939170788</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0015711099999999999 0.027509499999999999 -0.00021083500000000001</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>4.6017785027330739e-06 2.1020667949820385e-05 2.1020667949820385e-05 0 0 0</inertia>
+					<inertia>3.0597938097082464e-06 1.3976967737711162e-05 1.3976967737711162e-05 0 0 0</inertia>
 				</Body>
 				<Body name="tibia_l">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -504,11 +504,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>5.5166694801619256</mass>
+					<mass>3.6681189925983246</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.0130984 -0.20733499999999999 -0.0090681300000000006</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.091785263639503664 0.0092878047639950671 0.093060037447707494 0 0 0</inertia>
+					<inertia>0.061029443581388093 0.0061756052590911277 0.061877060433177831 0 0 0</inertia>
 				</Body>
 				<Body name="talus_l">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -542,11 +542,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.14879755846694342</mass>
+					<mass>0.098937801553562396</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.000353295 0 -0.00024458900000000003</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.0021462824301638267 0.0021462824301638267 0.0021462824301638267 0 0 0</inertia>
+					<inertia>0.0014270964345199336 0.0014270964345199336 0.0014270964345199336 0 0 0</inertia>
 				</Body>
 				<Body name="calcn_l">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -580,11 +580,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.859969480836789</mass>
+					<mass>1.2367225194195275</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.116143 0.036167699999999997 -0.0030573599999999999</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.0030047897678699841 0.0083704747144319018 0.0087997283832849799 0 0 0</inertia>
+					<inertia>0.0019979312619550819 0.00556565829935682 0.0058510757130743937 0 0 0</inertia>
 				</Body>
 				<Body name="toes_l">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -618,11 +618,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.32229551163939929</mass>
+					<mass>0.21429927816501607</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.040948199999999997 0.0072335300000000002 0.020567999999999999</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00021462824301638267 0.000429255077442922 0.0021462824301638267 0 0 0</inertia>
+					<inertia>0.00014270964345199335 0.00028541835031078034 0.0014270964345199336 0 0 0</inertia>
 				</Body>
 				<Body name="Abdomen">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -653,11 +653,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="lumbar5">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -691,11 +691,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>3.2684871692848803</mass>
+					<mass>2.1732677489255523</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0063228800000000003 0.027115500000000001 -0.0053726399999999997</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00018409424098275338 0.00016438947766456177 0.00016438947766456177 0 0 0</inertia>
+					<inertia>0.00012240711251691478 0.00010930511015262016 0.00010930511015262016 0 0 0</inertia>
 				</Body>
 				<Body name="lumbar4">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -729,11 +729,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>3.1016851062434387</mass>
+					<mass>2.0623584733840103</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0097198700000000002 0.021164499999999999 -0.00509845</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017208178679892764 0.0001583832505726489 0.0001583832505726489 0 0 0</inertia>
+					<inertia>0.0001144198456527569 0.00010531147672054123 0.00010531147672054123 0 0 0</inertia>
 				</Body>
 				<Body name="lumbar3">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -767,11 +767,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>3.0173168905926753</mass>
+					<mass>2.0062607399031358</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0198558 0.016990399999999999 -0.0049597699999999996</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017400873770458824 0.0001593467260254792 0.0001593467260254792 0 0 0</inertia>
+					<inertia>0.00011570110515910867 0.00010595210647371711 0.00010595210647371711 0 0 0</inertia>
 				</Body>
 				<Body name="lumbar2">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -805,11 +805,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>2.9399421601898719</mass>
+					<mass>1.9548130830952883</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.027439700000000001 0.010197599999999999 -0.0048325800000000004</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017883174932811305 0.00016175682324739824 0.00016175682324739824 0 0 0</inertia>
+					<inertia>0.00011890800029781373 0.00010755461744986323 0.00010755461744986323 0 0 0</inertia>
 				</Body>
 				<Body name="lumbar1">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -843,11 +843,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>2.9949972568226362</mass>
+					<mass>1.9914200696701032</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.034156899999999997 0.0040031199999999998 -0.0049230799999999998</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00018536338043158396 0.00016502334309405537 0.00016502334309405537 0 0 0</inertia>
+					<inertia>0.00012325098299587894 0.00010972657709549903 0.00010972657709549903 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic12">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -881,11 +881,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>2.9557147013873553</mass>
+					<mass>1.9653004900599575</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0450541 -5.1505599999999997e-05 -0.0048585099999999999</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00018295891756903813 0.00016382181595770413 0.00016382181595770413 0 0 0</inertia>
+					<inertia>0.00012165221839255838 0.00010892766309044197 0.00010892766309044197 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic11">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -919,11 +919,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>2.3880520158359775</mass>
+					<mass>1.5878527771331243</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.050456800000000003 -8.0805799999999998e-05 -0.0039253999999999999</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017883174932811305 0.00016175682324739824 0.00016175682324739824 0 0 0</inertia>
+					<inertia>0.00011890800029781373 0.00010755461744986323 0.00010755461744986323 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic10">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -957,11 +957,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>2.3048741806529587</mass>
+					<mass>1.532546546064685</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.054432500000000002 0.00416389 -0.00378868</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017501587944256144 0.00015984959259954411 0.00015984959259954411 0 0 0</inertia>
+					<inertia>0.00011637076930168289 0.00010628647024840102 0.00010628647024840102 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic9">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -995,11 +995,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.9367490210057476</mass>
+					<mass>1.2877744250211762</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.059116599999999998 0.0057903800000000004 -0.0031835700000000001</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017311146597439396 0.00015889738586546037 0.00015889738586546037 0 0 0</inertia>
+					<inertia>0.00011510449528663348 0.00010565333324087631 0.00010565333324087631 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic8">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1033,11 +1033,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.8241092692462613</mass>
+					<mass>1.2128785092451226</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0550007 0.0115359 -0.00299841</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017197191679114873 0.00015832831556875944 0.00015832831556875944 0 0 0</inertia>
+					<inertia>0.00011434679138265788 0.00010527494958549172 0.00010527494958549172 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic7">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1071,11 +1071,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.8837770901914956</mass>
+					<mass>1.2525525676680944</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0505899 0.018510100000000002 -0.0030964899999999999</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017228884950589557 0.00015848607763121119 0.00015848607763121119 0 0 0</inertia>
+					<inertia>0.00011455752485409734 0.00010537984802460824 0.00010537984802460824 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic6">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1109,11 +1109,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.6897450739506084</mass>
+					<mass>1.1235376744422538</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.046706999999999999 0.024034 -0.0027775500000000002</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017438060542322451 0.000159531251294954 0.000159531251294954 0 0 0</inertia>
+					<inertia>0.00011594836576559761 0.00010607480018375518 0.00010607480018375518 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic5">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1147,11 +1147,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.7379554828938939</mass>
+					<mass>1.1555935221456053</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.039916300000000002 0.028828300000000001 -0.0028568000000000001</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017883174932811305 0.00016175682324739824 0.00016175682324739824 0 0 0</inertia>
+					<inertia>0.00011890800029781373 0.00010755461744986323 0.00010755461744986323 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic4">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1185,11 +1185,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.5577616395904319</mass>
+					<mass>1.0357798444642454</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.032587699999999997 0.0309549 -0.0025606000000000001</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00018506898515433022 0.00016487544116050687 0.00016487544116050687 0 0 0</inertia>
+					<inertia>0.00012305523501574185 0.00010962823480882729 0.00010962823480882729 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic3">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1223,11 +1223,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.6834955764950024</mass>
+					<mass>1.119382286777008</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.020594700000000001 0.026754099999999999 -0.00276728</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00019086814953927521 0.000167775727647901 0.000167775727647901 0 0 0</inertia>
+					<inertia>0.00012691118924648036 0.00011155668022079974 0.00011155668022079974 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic2">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1261,11 +1261,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.4123864249682208</mass>
+					<mass>0.93911761234641022</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.015651499999999999 0.024542000000000001 -0.0023216399999999998</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00019648842301411861 0.00017058586438532271 0.00017058586438532271 0 0 0</inertia>
+					<inertia>0.00013064819614000636 0.00011342518366756276 0.00011342518366756276 0 0 0</inertia>
 				</Body>
 				<Body name="thoracic1">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1299,11 +1299,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>1.3294615456345995</mass>
+					<mass>0.88397957554061402</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>0.0016604600000000001 0.017270799999999999 -0.0021853300000000001</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00019804491479098626 0.00017136340597883489 0.00017136340597883489 0 0 0</inertia>
+					<inertia>0.00013168313163307562 0.00011394218311749418 0.00011394218311749418 0 0 0</inertia>
 				</Body>
 				<Body name="head_neck">
 					<!--List of components that this component owns and serializes.-->
@@ -1604,11 +1604,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>8.0547094349325707</mass>
+					<mass>5.3557010736974329</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.019124599999999999 0.135961 -0.013240099999999999</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib12_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1642,11 +1642,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib11_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1680,11 +1680,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib10_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1718,11 +1718,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib9_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1756,11 +1756,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib8_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1794,11 +1794,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib7_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1832,11 +1832,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib6_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1870,11 +1870,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib5_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1908,11 +1908,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib4_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1946,11 +1946,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib3_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -1984,11 +1984,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib2_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2022,11 +2022,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib1_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2060,11 +2060,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib12_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2098,11 +2098,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib11_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2136,11 +2136,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib10_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2174,11 +2174,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib9_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2212,11 +2212,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib8_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2250,11 +2250,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib7_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2288,11 +2288,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib6_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2326,11 +2326,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib5_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2364,11 +2364,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib4_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2402,11 +2402,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib3_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2440,11 +2440,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib2_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2478,11 +2478,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="rib1_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2516,11 +2516,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="sternum">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2554,11 +2554,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="clavicle_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2592,11 +2592,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="scapula_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2630,11 +2630,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="humerus_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2668,11 +2668,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>3.1452827908742536</mass>
+					<mass>2.0913472492392042</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.0074679400000000002 -0.133073 -0.0051701200000000003</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00018244478227622668 0.00018244478227622668 0.00018244478227622668 0 0 0</inertia>
+					<inertia>0.00012131036187222331 0.00012131036187222331 0.00012131036187222331 0 0 0</inertia>
 				</Body>
 				<Body name="ulna_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2706,11 +2706,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.90394516768668143</mass>
+					<mass>0.60104714443789165</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.00214627 -0.124943 -0.00148588</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00015870440905692566 0.00015870440905692566 0.00015870440905692566 0 0 0</inertia>
+					<inertia>0.00010552501997159986 0.00010552501997159986 0.00010552501997159986 0 0 0</inertia>
 				</Body>
 				<Body name="radius_R">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -2773,11 +2773,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.90394516768668143</mass>
+					<mass>0.60104714443789165</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.00214627 -0.124943 -0.00148588</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00015870440905692566 0.00015870440905692566 0.00015870440905692566 0 0 0</inertia>
+					<inertia>0.00010552501997159986 0.00010552501997159986 0.00010552501997159986 0 0 0</inertia>
 				</Body>
 				<Body name="hand_R">
 					<!--List of components that this component owns and serializes.-->
@@ -3785,11 +3785,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.68074882998626551</mass>
+					<mass>0.45264044210754756</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.0016163200000000001 -0.054374800000000001 -0.00111899</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>9.4156765499715778e-05 9.4156765499715778e-05 9.4156765499715778e-05 0 0 0</inertia>
+					<inertia>6.2606291903678912e-05 6.2606291903678912e-05 6.2606291903678912e-05 0 0 0</inertia>
 				</Body>
 				<Body name="clavicle_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -3823,11 +3823,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="scapula_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -3861,11 +3861,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.00014879755846694342</mass>
+					<mass>9.893780155356238e-05</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329499999999999e-07 0 -2.4458900000000002e-07</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00017186627255289983 0.00015827478915471331 0.00015827478915471331 0 0 0</inertia>
+					<inertia>0.00011427654689217808 0.00010523935904364861 0.00010523935904364861 0 0 0</inertia>
 				</Body>
 				<Body name="humerus_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -3899,11 +3899,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>3.1452827908742536</mass>
+					<mass>2.0913472492392042</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.0074679400000000002 -0.133073 -0.0051701200000000003</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00018244478227622668 0.00018244478227622668 0.00018244478227622668 0 0 0</inertia>
+					<inertia>0.00012131036187222331 0.00012131036187222331 0.00012131036187222331 0 0 0</inertia>
 				</Body>
 				<Body name="ulna_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -3937,11 +3937,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.90394516768668143</mass>
+					<mass>0.60104714443789165</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.00214627 -0.124943 -0.00148588</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00015870440905692566 0.00015870440905692566 0.00015870440905692566 0 0 0</inertia>
+					<inertia>0.00010552501997159986 0.00010552501997159986 0.00010552501997159986 0 0 0</inertia>
 				</Body>
 				<Body name="radius_L">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -4004,11 +4004,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.90394516768668143</mass>
+					<mass>0.60104714443789165</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.00214627 -0.124943 -0.00148588</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.00015870440905692566 0.00015870440905692566 0.00015870440905692566 0 0 0</inertia>
+					<inertia>0.00010552501997159986 0.00010552501997159986 0.00010552501997159986 0 0 0</inertia>
 				</Body>
 				<Body name="hand_L">
 					<!--List of components that this component owns and serializes.-->
@@ -5016,11 +5016,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.68074882998626551</mass>
+					<mass>0.45264044210754756</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-0.0016163200000000001 -0.054374800000000001 -0.00111899</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>9.4156765499715778e-05 9.4156765499715778e-05 9.4156765499715778e-05 0 0 0</inertia>
+					<inertia>6.2606291903678912e-05 6.2606291903678912e-05 6.2606291903678912e-05 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_L_L1">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5067,11 +5067,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_L_L2">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5118,11 +5118,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_L_L3">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5169,11 +5169,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_L_L4">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5220,11 +5220,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_L_L5">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5271,11 +5271,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_R_L1">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5322,11 +5322,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_R_L2">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5373,11 +5373,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_R_L3">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5424,11 +5424,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_R_L4">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5475,11 +5475,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 				<Body name="Abd_R_L5">
 					<!--The geometry used to display the axes of this Frame.-->
@@ -5526,11 +5526,11 @@
 						<groups />
 					</WrapObjectSet>
 					<!--The mass of the body (kg)-->
-					<mass>0.014879755846694341</mass>
+					<mass>0.0098937801553562379</mass>
 					<!--The location (Vec3) of the mass center in the body frame.-->
 					<mass_center>-3.5329500000000001e-05 0 -2.4458900000000001e-05</mass_center>
 					<!--The elements of the inertia tensor (Vec6) as [Ixx Iyy Izz Ixy Ixz Iyz] measured about the mass_center and not the body origin.-->
-					<inertia>0.017186627255289983 0.015827478915471333 0.015827478915471333 0 0 0</inertia>
+					<inertia>0.011427654689217808 0.010523935904364862 0.010523935904364862 0 0 0</inertia>
 				</Body>
 			</objects>
 			<groups />
