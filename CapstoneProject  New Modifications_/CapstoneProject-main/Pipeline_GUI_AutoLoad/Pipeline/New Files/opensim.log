@@ -1510,3 +1510,403 @@ Examples:
 [2026-11-12 11:30:34.995] [info] Step 2: Scaling generic model
 [2026-11-12 11:30:35.288] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
 [2026-11-12 11:30:35.290] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-19 12:21:42.758] [info] Preparing to run ScaleTool.
+[2026-11-19 12:21:42.759] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-19 12:21:42.759] [info] Step 1: Loading generic model
+[2026-11-19 12:21:42.783] [info] Updating Model file from 30000 to latest format...
+[2026-11-19 12:21:43.036] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\CapstoneProject  New Modifications_\CapstoneProject-main\Pipeline_GUI_AutoLoad\Pipeline\New Files\P2_APP1_SO.osim
+[2026-11-19 12:21:43.224] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-19 12:21:43.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:21:43.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:21:43.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:21:43.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:21:43.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:21:43.230] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:21:43.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:21:43.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:21:43.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:21:43.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:21:43.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:21:43.232] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:21:43.233] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:21:43.234] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:21:43.236] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-19 12:21:43.332] [info] Step 2: Scaling generic model
+[2026-11-19 12:21:43.761] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-19 12:21:43.765] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-19 12:28:33.193] [info] Preparing to run ScaleTool.
+[2026-11-19 12:28:33.193] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-19 12:28:33.193] [info] Step 1: Loading generic model
+[2026-11-19 12:28:33.219] [info] Updating Model file from 30000 to latest format...
+[2026-11-19 12:28:33.494] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\CapstoneProject  New Modifications_\CapstoneProject-main\Pipeline_GUI_AutoLoad\Pipeline\New Files\P2_APP1_SO.osim
+[2026-11-19 12:28:33.511] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-19 12:28:33.518] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:33.518] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:33.518] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:28:33.518] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:33.518] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:28:33.518] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:28:33.519] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:33.519] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:33.519] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:28:33.519] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:33.519] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:28:33.519] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:33.520] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:33.521] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:33.523] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-19 12:28:33.585] [info] Step 2: Scaling generic model
+[2026-11-19 12:28:33.993] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-19 12:28:33.996] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-19 12:28:47.353] [info] Preparing to run ScaleTool.
+[2026-11-19 12:28:47.353] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-19 12:28:47.353] [info] Step 1: Loading generic model
+[2026-11-19 12:28:47.378] [info] Updating Model file from 30000 to latest format...
+[2026-11-19 12:28:47.661] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\CapstoneProject  New Modifications_\CapstoneProject-main\Pipeline_GUI_AutoLoad\Pipeline\New Files\P2_APP1_SO.osim
+[2026-11-19 12:28:47.681] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-19 12:28:47.686] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:47.686] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:47.686] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:28:47.686] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:47.686] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:28:47.686] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:28:47.687] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:47.687] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:47.687] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:28:47.687] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:28:47.687] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:28:47.687] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:28:47.688] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:28:47.691] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-19 12:28:47.750] [info] Step 2: Scaling generic model
+[2026-11-19 12:28:48.157] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-19 12:28:48.159] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-19 12:30:38.487] [info] Preparing to run ScaleTool.
+[2026-11-19 12:30:38.488] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-19 12:30:38.488] [info] Step 1: Loading generic model
+[2026-11-19 12:30:38.510] [info] Updating Model file from 30000 to latest format...
+[2026-11-19 12:30:38.779] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\CapstoneProject  New Modifications_\CapstoneProject-main\Pipeline_GUI_AutoLoad\Pipeline\New Files\P2_APP1_SO.osim
+[2026-11-19 12:30:38.799] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-19 12:30:38.803] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:30:38.803] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:30:38.803] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:30:38.803] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:30:38.803] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:30:38.803] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:30:38.804] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:30:38.804] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:30:38.804] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:30:38.804] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:30:38.804] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:30:38.804] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:30:38.805] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:30:38.808] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-19 12:30:38.872] [info] Step 2: Scaling generic model
+[2026-11-19 12:30:39.260] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-19 12:30:39.262] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-19 12:31:02.776] [info] Preparing to run ScaleTool.
+[2026-11-19 12:31:02.777] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-19 12:31:02.777] [info] Step 1: Loading generic model
+[2026-11-19 12:31:02.801] [info] Updating Model file from 30000 to latest format...
+[2026-11-19 12:31:03.089] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\CapstoneProject  New Modifications_\CapstoneProject-main\Pipeline_GUI_AutoLoad\Pipeline\New Files\P2_APP1_SO.osim
+[2026-11-19 12:31:03.112] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-19 12:31:03.117] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:31:03.117] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:31:03.117] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:31:03.117] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:31:03.117] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:31:03.117] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:31:03.118] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:31:03.118] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:31:03.118] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:31:03.118] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:31:03.118] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:31:03.118] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:31:03.119] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:31:03.122] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-19 12:31:03.180] [info] Step 2: Scaling generic model
+[2026-11-19 12:31:03.615] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-19 12:31:03.619] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-19 12:36:52.363] [info] Preparing to run ScaleTool.
+[2026-11-19 12:36:52.364] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-19 12:36:52.364] [info] Step 1: Loading generic model
+[2026-11-19 12:36:52.383] [info] Updating Model file from 30000 to latest format...
+[2026-11-19 12:36:52.588] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\CapstoneProject  New Modifications_\CapstoneProject-main\Pipeline_GUI_AutoLoad\Pipeline\New Files\P2_APP1_SO.osim
+[2026-11-19 12:36:52.602] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-19 12:36:52.608] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:36:52.608] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:36:52.608] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:36:52.608] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:36:52.608] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:36:52.608] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:36:52.609] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 12:36:52.610] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 12:36:52.612] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-19 12:36:52.668] [info] Step 2: Scaling generic model
+[2026-11-19 12:36:52.983] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-19 12:36:52.985] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-19 13:19:43.386] [info] Preparing to run ScaleTool.
+[2026-11-19 13:19:43.388] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-19 13:19:43.388] [info] Step 1: Loading generic model
+[2026-11-19 13:19:43.424] [info] Updating Model file from 30000 to latest format...
+[2026-11-19 13:19:43.768] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\CapstoneProject  New Modifications_\CapstoneProject-main\Pipeline_GUI_AutoLoad\Pipeline\New Files\P2_APP1_SO.osim
+[2026-11-19 13:19:43.793] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-19 13:19:43.797] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:19:43.797] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:19:43.797] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 13:19:43.797] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:19:43.797] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 13:19:43.797] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 13:19:43.798] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:19:43.798] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:19:43.798] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 13:19:43.798] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:19:43.798] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 13:19:43.798] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:19:43.799] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:19:43.800] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:19:43.800] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:19:43.800] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:19:43.800] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 13:19:43.800] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:19:43.800] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:19:43.800] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:19:43.802] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-19 13:19:43.856] [info] Step 2: Scaling generic model
+[2026-11-19 13:19:44.200] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-19 13:19:44.202] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
+[2026-11-19 13:24:42.675] [info] Preparing to run ScaleTool.
+[2026-11-19 13:24:42.675] [info] Processing subject P2_PointCloud_scaled...
+[2026-11-19 13:24:42.675] [info] Step 1: Loading generic model
+[2026-11-19 13:24:42.701] [info] Updating Model file from 30000 to latest format...
+[2026-11-19 13:24:43.046] [info] Loaded model P2_Scaled from file c:\Users\adity\OneDrive\Documents\CapstoneProject\CapstoneProject  New Modifications_\CapstoneProject-main\Pipeline_GUI_AutoLoad\Pipeline\New Files\P2_APP1_SO.osim
+[2026-11-19 13:24:45.942] [info] ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+[2026-11-19 13:24:45.949] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:24:45.949] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:24:45.949] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 13:24:45.949] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:24:45.949] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 13:24:45.949] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 13:24:45.950] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:24:45.950] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:24:45.950] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 13:24:45.950] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2026-11-19 13:24:45.950] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_1'.
+[2026-11-19 13:24:45.950] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_2'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_R'. The duplicate is being renamed to 'PathPoint_clavicle_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_R'. The duplicate is being renamed to 'PathPoint_humerus_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_R'. The duplicate is being renamed to 'PathPoint_scapula_R_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:24:45.951] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:24:45.952] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:24:45.952] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:24:45.952] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:24:45.952] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:24:45.952] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_clavicle_L'. The duplicate is being renamed to 'PathPoint_clavicle_L_0'.
+[2026-11-19 13:24:45.952] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:24:45.952] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_humerus_L'. The duplicate is being renamed to 'PathPoint_humerus_L_0'.
+[2026-11-19 13:24:45.952] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'PathPoint_scapula_L'. The duplicate is being renamed to 'PathPoint_scapula_L_0'.
+[2026-11-19 13:24:45.956] [info] ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
+[2026-11-19 13:24:46.047] [info] Step 2: Scaling generic model
+[2026-11-19 13:24:46.741] [info] Wrote model file 'P2_PointCloud_scaled.osim' from model.
+[2026-11-19 13:24:46.745] [info] Wrote scale file 'P2_PointCloud_scaleFactors.xml' for model P2_PointCloud_scaled.
